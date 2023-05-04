@@ -1,0 +1,18 @@
+#Comparitive Operators
+num1<-c(10,20,30,40,50)
+num2<-c(20,30,40,50,60)
+print(num1>num2)
+print(num1<num2)
+print(num1<=num2)
+print(num1>=num2)
+print(num1==num2)
+print(num1!=num2)
+
+num1<-c(10L,20L,30L,40L,50L)
+num2<-c(20L,30L,40L,50L,60L)
+print(num1>num2)
+print(num1<num2)
+print(num1<=num2)
+print(num1>=num2)
+print(num1==num2)
+print(num1!=num2)

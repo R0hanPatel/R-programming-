@@ -1,0 +1,13 @@
+#Matrix
+mat<-matrix(c(1,2,3,4,5,6,7,8,9,10), nrow = 3, ncol = 3)
+mat1<-matrix(c("Rohan","Nitish","Bhavana","Devisree","Prasanna","Pankaj"),nrow = 3,ncol = 3)
+mat2<-matrix(c(10L,20L,30L,40L,50L,60L,70L,80L,90L,100L),nrow = 3,ncol=3)
+print(mat)
+print(mat1)
+print(mat2)
+paste(mat)
+paste(mat1)
+paste(mat2)
+cat(mat)
+cat(mat1)
+cat(mat2)
